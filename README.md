@@ -16,4 +16,4 @@ resources.robot: Includes framework resources .
 
 Usage
 To run the test cases, execute the following command:
-robot -d Reports Tests/shopping.robot
+robot -d Reports Tests/marketing.robot
